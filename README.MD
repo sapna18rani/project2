@@ -1,3 +1,3 @@
 # new project
 
-this a new project created by me
+this is a project created by me.
